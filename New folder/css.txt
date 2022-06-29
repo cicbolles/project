@@ -1,0 +1,667 @@
+letter-spacing: 2px;
+word-spacing: 2px;
+-------------------------
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="description" content="Affordable and professional web design">
+
+	  <meta name="keywords" content="web design, affordable web design, professional web design">
+
+  	<meta name="author" content="Brad Traversy">
+
+    <title>wassim.Bolles | Welcome</title>
+
+    <link rel="stylesheet" href="">
+
+    <link rel="icon" href="">
+
+  </head>
+
+  <body>
+
+    <header>
+
+      <div class="container">
+
+        <div id="branding">
+
+          <h1><span class="highlight">Bolles</span> 🕷️ Web Design</h1>
+
+        </div>
+
+        <nav>
+
+          <ul>
+
+            <li class="current"><a href="index.html">service</a></li>
+
+            <li><a href="https://wsbolles.blogspot.com/?m=1">Skills </a></li>
+
+            <li><a href="https://bolleswb.blogspot.com/?m=1">Home</a></li>
+
+          </ul>
+
+        </nav>
+
+      </div>
+
+    </header>
+
+    <section id="showcase">
+
+      <div class="container">
+
+      				<div class="backs">
+
+       <div class="par"> <h1>Affordable Professional Web Design</h1></div></div>
+
+        
+
+      </div>
+
+    </section>
+
+    <section id="newsletter">
+
+      <div class="container">
+
+        <h1>Subscribe To Our website</h1>
+
+        <form>
+
+          <input type="email" placeholder="Enter Email..." required>
+
+          <button type="submit" class="button_1">Subscribe</button>
+
+        </form>
+
+      </div>
+
+    </section>
+
+    <div class="backsite">
+
+<div class="backpara">
+
+    <section id="boxes">
+
+      <div class="container">
+
+        <div class="box">
+
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
+
+         <div class="para"> <h3>HTML5 Markup</h3>
+
+          </div>
+
+        </div>
+
+        <div class="box">
+
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+
+         <div class="para"> <h3>CSS3 Styling</h3></div>
+
+          
+
+        </div>
+
+        <div class="box">
+
+          <img src="data:image/png;base64,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">
+
+         <div class="para"> <h3>java script</h3></div>
+
+          
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <center><p><font color=white><h1>_______________________</h1></font></p></center>
+
+    <div class="back">
+
+  <div class="service"> <section id="main">
+
+      <div class="container">
+
+        <article id="main-col">
+
+          <h1 class="page-title">Services</h1>
+
+          <ul id="services">
+
+            <li>
+
+              <h3>Website Design</h3>
+
+              
+
+						  <p>Pricing: $1,000 - $3,000</p>
+
+            </li>
+
+            <li>
+
+              <h3>Website Maintenance</h3>
+
+              
+
+						  <p>Pricing: $250 per month</p>
+
+            </li>
+
+            <li>
+
+              <h3>Website Hosting</h3>
+
+              
+
+						  <p>Pricing: $25 per month</p>
+
+            </li>
+
+          </ul>
+
+        </article></div></div></div>
+
+        <center><p><font color=white><h1>_______________________</h1></font></p></center>
+
+        <center><p><font color=black><h1>_______________________</h1></font></p></center>
+
+        <aside id="sidebar">
+
+          <div class="dark">
+
+            <h3>Get A Quote</h3>
+
+            <form class="quote">
+
+  						<div>
+
+  							<label>Name</label><br>
+
+  							<input type="text" placeholder="Name">
+
+  						</div>
+
+  						<div>
+
+  							<label>Email</label><br>
+
+  							<input type="email" placeholder="Emial Address">
+
+  						</div>
+
+  						<div>
+
+  							<label>Message</label><br>
+
+  							<textarea placeholder="Message"></textarea>
+
+  						</div>
+
+  						<button class="button_1" type="submit">Send</button>
+
+					</form>
+
+          </div>
+
+        </aside>
+
+      </div>
+
+    </section>
+
+</div></div>
+
+    <footer>
+
+      <p>wassim Bolles copyright ©️ 2021</p>
+
+    </footer>
+
+  </body>
+
+  <style>
+
+  				*{
+
+ /* 				background:url("https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?size=626&ext=jpg&ga=GA1.2.1344896785.1619481600");*/
+
+  				}
+
+  ack{
+
+  background:url("https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?size=626&ext=jpg&ga=GA1.2.1344896785.1619481600");
+
+  
+
+  }
+
+  .backsite{
+
+  
+
+  background: url("https://i.pinimg.com/originals/e1/81/19/e1811952976d172cf9f6ddd5f2c9ba2c.jpg");
+
+  }
+
+  backpara{
+
+  background:url("https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?size=626&ext=jpg&ga=GA1.2.1344896785.1619481600");
+
+  
+
+  }
+
+  				body{
+
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+                  
+
+  padding:0;
+
+  margin:0;
+
+  background:gary;
+
+}
+
+/*.service {
+
+background:url("https://i.pinimg.com/originals/e1/81/19/e1811952976d172cf9f6ddd5f2c9ba2c.jpg");
+
+}*/
+
+/*.backs{
+
+background:url("https://i.pinimg.com/originals/e1/81/19/e1811952976d172cf9f6ddd5f2c9ba2c.jpg");
+
+}*/
+
+.para{
+
+color:#fff;
+
+}
+
+/* Global */
+
+.container{
+
+  width:80%;
+
+  margin:auto;
+
+  overflow:hidden;
+
+}
+
+.page-title{
+
+color:yellow;
+
+font-size:34px;
+
+}
+
+ul{
+
+  margin:0;
+
+  padding:0;
+
+}
+
+.button_1{
+
+  height:38px;
+
+  background:#e8491d;
+
+  border:0;
+
+  padding-left: 20px;
+
+  padding-right:20px;
+
+  color:#ffffff;
+
+}
+
+.dark{
+
+  padding:15px;
+
+  background:#35424a;
+
+  color:#ffffff;
+
+  margin-top:10px;
+
+  margin-bottom:10px;
+
+}
+
+/* Header **/
+
+header{
+
+  background:#35424a;
+
+  color:#ffffff;
+
+  padding-top:30px;
+
+  min-height:70px;
+
+  border-bottom:#e8491d 3px solid;
+
+}
+
+header a{
+
+  color:#ffffff;
+
+  text-decoration:none;
+
+  text-transform: uppercase;
+
+  font-size:16px;
+
+}
+
+header li{
+
+  float:left;
+
+  display:inline;
+
+  padding: 0 20px 0 20px;
+
+}
+
+header #branding{
+
+  float:left;
+
+}
+
+header #branding h1{
+
+  margin:0;
+
+}
+
+header nav{
+
+  float:right;
+
+  margin-top:10px;
+
+}
+
+header .highlight, header .current a{
+
+  color:#e8491d;
+
+  font-weight:bold;
+
+}
+
+header a:hover{
+
+  color:#cccccc;
+
+  font-weight:bold;
+
+}
+
+/* Showcase */
+
+#showcase{
+
+  min-height:400px;
+
+  background:url('https://media.npr.org/assets/img/2020/03/13/gettyimages-667018224_wide-e69134a24ff79fd3a338ff83661815c6299e58bd-s800-c85.jpg') no-repeat;
+
+  background-position: center;
+
+  background-size: cover;
+
+  text-align:center;
+
+  color:#ffffff;
+
+}
+
+#showcase h1{
+
+  margin-top:100px;
+
+  font-size:55px;
+
+  margin-bottom:10px;
+
+}
+
+#showcase p{
+
+  font-size:20px;
+
+}
+
+/* Newsletter */
+
+#newsletter{
+
+  padding:15px;
+
+  color:#ffffff;
+
+  background:#35424a
+
+}
+
+#newsletter h1{
+
+  float:left;
+
+}
+
+#newsletter form {
+
+  float:right;
+
+  margin-top:15px;
+
+}
+
+#newsletter input[type="email"]{
+
+  padding:4px;
+
+  height:25px;
+
+  width:250px;
+
+}
+
+/* Boxes */
+
+#boxes{
+
+  margin-top:20px;
+
+}
+
+#boxes .box{
+
+  float:left;
+
+  text-align: center;
+
+  width:30%;
+
+  padding:10px;
+
+}
+
+#boxes .box img{
+
+  width:90px;
+
+}
+
+/* Sidebar */
+
+aside#sidebar{
+
+ /* float:right;*/
+
+  width:65%;
+
+ padding-left:98px;
+
+ 
+
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+
+  width:90%;
+
+  padding:5px;
+
+}
+
+/* Main-col */
+
+article#main-col{
+
+  float:left;
+
+  width:65%;
+
+}
+
+/* Services */
+
+ul#services li{
+
+  list-style: none;
+
+  padding:20px;
+
+  border: #cccccc solid 1px;
+
+  margin-bottom:5px;
+
+  background:#e6e6e6;
+
+}
+
+footer{
+
+  padding:20px;
+
+  margin-top:20px;
+
+  color:#ffffff;
+
+  background-color:#e8491d;
+
+  text-align: center;
+
+}
+    .par h1{
+      text-shadow :  3px 3px 3px  black;
+      /*font-family:sans-serif ;
+ text-align:center ;
+ margin-top:180px;
+ font-size:50px;
+ color:transparent;
+ background-image:url(" https://www.dropbox.com/s/fjddinm056taae7/unnamed.gif?dl=1 ");
+ background-position:center;
+ -webkit-background-clip:text;*/
+    }
+
+/* Media Queries */
+
+@media(max-width: 768px){
+
+  header #branding,
+
+  header nav,
+
+  header nav li,
+
+  #newsletter h1,
+
+  #newsletter form,
+
+  #boxes .box,
+
+  article#main-col,
+
+  aside#sidebar{
+
+    float:none;
+
+    text-align:center;
+
+    width:100%;
+
+  }
+
+  header{
+
+    padding-bottom:20px;
+
+  }
+
+  #showcase h1{
+
+    margin-top:40px;
+
+  }
+
+  #newsletter button, .quote button{
+
+    display:block;
+
+    width:100%;
+
+  }
+
+  #newsletter form input[type="email"], .quote input, .quote textarea{
+
+    width:100%;
+
+    margin-bottom:5px;
+
+  }
+
+}
+
+  </style>
+
+</html>
+
+
+
+
+
+

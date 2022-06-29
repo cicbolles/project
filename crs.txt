@@ -1,0 +1,70 @@
+https://elzero.org/category/assignments/html-assignments/
+https://elzero.org/category/courses/html-course/
+
+crs 6 :!  standard and quirks mode
+img   back = ../
+&LT; p &gt
+
+TABLES:
+  <table border="13">
+            <caption>sulfat de magnezium</caption>
+            <tr>
+              <th>H1</th>
+              <th>H2</th>
+              <th>H3</th>
+            </tr>
+            <tr>
+                <td>vitamin B</td>
+                <td>sodium</td>
+                <td>sulfat de cuivre</td>
+            </tr>
+            <tr>
+                <td>2.5g</td>
+                <td>0.32g</td>
+                <td>7.1g</td>
+            </tr>
+                <td colspan="2">13%</td>
+              <!--  <td>5%</td>-->
+                <td>70.02%</td>
+        </table>
+
+
+TABLE>>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <ul>
+            <li>home</li>
+            <li>contact</li>
+            <li>
+            about l
+                <ol>
+                    <li>ecosystem</li>
+                    <li>partners</li>
+                    <li>about us</li>
+                </ol>
+            </li>
+        </ul>
+
+
+
+
+
+
+<a href="#wassim" title="wassim">wassim</a>
+        <div class="link">
+            <a href="https://www.google.com" target="blank" title="link of google">google</a>
+         <a href="http://192.168.1.1/Wizard/ge_login.cgi" target="blanks" title="internet">google</a>
+         <a href="mailto:wassimbolles67@gmail.com">contact me</a>

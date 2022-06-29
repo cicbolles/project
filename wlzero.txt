@@ -1,0 +1,134 @@
+input... :
+https://www.youtube.com/watch?v=rpPIRitcAn8&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=28
+
+input hidden range number color ... : 
+
+https://www.youtube.com/watch?v=ZUax-YsT57I&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=27
+
+  <!------- -------------------->
+
+radio and checkbox input :
+
+https://www.youtube.com/watch?v=YAcn1MyAcDM&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=30
+
+<!--------------   -------------------->
+readonly desabled autofocus
+
+
+
+
+123....
+ 
+    <form action="" method="get">
+        <input type="email" required placeholder="email" name="email" disabled value="wassimbolles67@gmail.com">
+        <input type="password" required placeholder="password" name="password" autofocus minlength="6" maxlength="40">
+        <label>age</label>
+        <input type="number" value="age" min="0" max="150" step="1">
+        <input type="email" value="email@email.com" disabled name="email2">
+
+        <!-- radio  -->
+       <!--  <hr>
+        <form>
+            <div>
+                <input id="win" type="radio" name="os" value="win" checked />
+                <label for="win">windows</label>
+            </div>
+            <div>
+                <input id="linux" type="radio" value="linux" name="os" />
+                <label for="linux">linux</label>
+            </div>
+            <div>
+                <input id="mac" value="mac" type="radio" name="os" />
+                <label for="mac">mac</label>
+            </div>
+            <input type="submit" required placeholder="age" value="connexion">
+            <hr>
+            <div>
+                <input id="bmw" type="radio" name="cars" required>
+                <label for="bmw">BMW</label>
+            </div>
+            <div>
+                <input id="tesla" type="radio" name="cars">
+                <label for="tesla">tesla</label>
+            </div>
+            <hr>
+            <details>
+
+                <textarea name="codesrc" cols="15" rows="15"><!DOCTYPE html>
+                <html lang="en">
+                
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>test</title>
+                </head>
+                
+                <body>
+                
+                    <form action="" method="get">
+                        <input type="email" required placeholder="email" name="email" disabled value="wassimbolles67@gmail.com">
+                        <input type="password" required placeholder="password" name="password" autofocus minlength="6" maxlength="40">
+                        <label>age</label>
+                        <input type="number" value="age" min="0" max="150" step="1">
+                        <input type="email" value="email@email.com" disabled name="email2">
+                
+                      radio  -->
+ <!--                         <hr>
+                        <form>
+                            <div>
+                                <input id="win" type="radio" name="os" value="win" checked />
+                                <label for="win">windows</label>
+                            </div>
+                            <div>
+                                <input id="linux" type="radio" value="linux" name="os" />
+                                <label for="linux">linux</label>
+                            </div>
+                            <div>
+                                <input id="mac" value="mac" type="radio" name="os" />
+                                <label for="mac">mac</label>
+                            </div>
+                            <input type="submit" required placeholder="age" value="connexion">
+                            <hr>
+                            <div>
+                                <input id="bmw" type="radio" name="cars" required>
+                                <label for="bmw">BMW</label>
+                            </div>
+                            <div>
+                                <input id="tesla" type="radio" name="cars">
+                                <label for="tesla">tesla</label>
+                            </div>
+                            <hr>
+                            <textarea name="codesrc" aria-valuetext="11" cols="30"
+                                rows="10"></textarea>
+        </form>
+
+
+
+</body>
+</textarea></details>
+<label for="city">where are you from</label>
+<select name="city" id="city">
+    <optgroup label="citys">
+        <option value="c1">lhajb hh</option>
+        <option value="c2">bengrire</option>
+        <option value="c3">rabat</option>
+        <option value="c4">tazaa</option>
+</select></optgroup>
+ -->
+
+<!-- </form>
+<hr>
+<form>
+    <label for="file">upload</label>
+    <input type="file">
+    <hr>
+    <label for="search">search</label>
+    <input id="search" type="search">
+    <hr>
+    <label for="file">upload</label>
+    <input type="file">
+    <hr>
+ 
+</form> -->
+
